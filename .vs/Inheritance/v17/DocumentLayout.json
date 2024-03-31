@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|c:\\users\\user\\desktop\\inheritance\\inheritance\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|c:\\users\\user\\desktop\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|c:\\users\\user\\desktop\\inheritance\\inheritance\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|c:\\users\\user\\desktop\\inheritance\\inheritance\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060BD9A5-603D-4AC4-900E-CC9212A44A59}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:03:25.341Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Models\\Device.cs",
+              "RelativeToolTip": "Inheritance\\Models\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:04:22.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Models\\Mobile.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Models\\Mobile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Models\\Mobile.cs",
+              "RelativeToolTip": "Inheritance\\Models\\Mobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:04:24.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Inheritance\\Inheritance\\Models\\Laptop.cs",
+              "RelativeToolTip": "Inheritance\\Models\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:04:23.852Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
